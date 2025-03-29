@@ -15,5 +15,5 @@ An AI-driven multi-channel communication system that:
 2. AI-Powered Communication: Apply NLP-based translation & voice AI for effective communication.
 3. Measuring Effectiveness: Utilize tracking of confirmation rate, A/B testing, and patient feedback survey. 
 
-##Video Link
-[Insert Video Link]
+## Video Link
+[https://www.loom.com/share/91ed43a6c1634049a134993674690f4d?sid=c808f987-4e36-4533-8da9-d683bc457b31]
